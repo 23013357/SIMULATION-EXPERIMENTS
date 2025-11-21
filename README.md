@@ -62,7 +62,8 @@
 <img width="1904" height="448" alt="513908137-e9694b43-295b-47e5-9836-755f4684fbf3" src="https://github.com/user-attachments/assets/34369fa2-3f98-494d-b186-33e7cc4f898c" />
 
 # CIRCUIT DIAGRAM- R-2R LADDER DAC
-<img width="504" height="321" alt="513919096-36af3da4-8e88-4846-b071-7c0847005a5d" src="https://github.com/user-attachments/assets/ccdfa31f-7617-4613-a3f2-b6433f3a73e6" />
+![R2R CIRCUIT](https://github.com/user-attachments/assets/e0f62bcf-6a33-4d79-8799-4b368faf4aa8)
+
 
 # SIMULATED OUTPUT
 
