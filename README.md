@@ -65,7 +65,8 @@
 <img width="504" height="321" alt="513919096-36af3da4-8e88-4846-b071-7c0847005a5d" src="https://github.com/user-attachments/assets/ccdfa31f-7617-4613-a3f2-b6433f3a73e6" />
 
 # SIMULATED OUTPUT
-<img width="1915" height="422" alt="513919206-b86aa986-38ea-4556-a6a5-fa9f514d4333" src="https://github.com/user-attachments/assets/2f0b872e-e836-484f-aae2-ac7e4ef4990f" />
+
+![R2R Ladder](https://github.com/user-attachments/assets/778d5692-83a0-429c-9082-e009f1218a86)
 
 # RESULT
 All the designed circuits—Inverting & Non-Inverting Amplifiers, Differential and Instrumentation Amplifier, Active Filters (Low-Pass, High-Pass, Band-Pass), and the R-2R DAC—were successfully simulated in LT-Spice
